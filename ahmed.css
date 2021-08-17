@@ -10,6 +10,7 @@
 }
 .item {
     float: left;
+    clear: left;
     margin-left: 4%;
     background-color:teal;
     width:20% ;
